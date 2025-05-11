@@ -1,7 +1,7 @@
 {
-  "hostname": "purpleparrotpartpradime.github.io/The-PyProgramz",
-  "bundle_id": "com.example.pyprogramz",
+  "hostname": "purpleparrotpartpradime.github.io/App",
+  "bundle_id": "com.example.app",
   "provisioning_profile": "path/to/profile.mobileprovision",
-  "cert_name": "iPhone Distribution: Example Co",
+  "cert_name": "iPhone Distribution: Unusable garbage by tZarBomba64 on Github",
   "app_version": "1.0"
 }
